@@ -12,6 +12,14 @@
 - 😄 Pronoms : masculin ... ca se voit à la barbe 🧔 mais pas au prénom 🙄
 - ⚡ Fait funné : Je suis prof de Salsa cubaine 🕺💃 et [champion "du monde" amateur de rueda de casino en 2009 à Miami](https://www.youtube.com/watch?v=PEIl0_1CPko)
 
+### Retrouvez moi ailleurs
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camillebesse/)
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" />](https://scholar.google.com/citations?hl=fr&user=k6v8L0MAAAAJ)
+
+<br><br>
+
+
 ---
 
 - 🔭 I’m currently managing master students in artificial intelligence and creating new cool projects for future students
@@ -22,4 +30,9 @@
 - 📫 How to reach me: On the [Data and Intelligence Institute webpage (IID)](https://iid.ulaval.ca/equipes/camille-besse/), there everything to be able to contact me.
 - 😄 Pronouns: He/him. You can guess it with the beard 🧔 but not the first name 🙄
 - ⚡ Fun fact: I also teach Cuban salsa 🕺💃 and I was an [amateur "world" champion of rueda de casino in 2009 in Miami](https://www.youtube.com/watch?v=PEIl0_1CPko)
+
+### Connect with me 
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camillebesse/)
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" />](https://scholar.google.com/citations?hl=fr&user=k6v8L0MAAAAJ)
 
